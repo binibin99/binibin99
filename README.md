@@ -19,6 +19,7 @@
    <br>
    <h4>DataBase</h4>
    <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
+   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
 </div>
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3)
